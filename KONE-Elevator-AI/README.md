@@ -11,7 +11,7 @@
 
 ## Live Deployments
 
-- **Production Frontend (Netlify)**: [https://eloquent-eclair-c69e60.netlify.app](https://eloquent-eclair-c69e60.netlify.app)
+- **Production Frontend (Netlify)**: [https://elevator-ai.netlify.app/https://elevator-ai.netlify.app/](https://elevator-ai.netlify.app/)
 - **Production Backend API (Railway)**: [https://kone-elevator-ai-production.up.railway.app](https://kone-elevator-ai-production.up.railway.app)
 - **Interactive OpenAPI Docs**: [https://kone-elevator-ai-production.up.railway.app/docs](https://kone-elevator-ai-production.up.railway.app/docs)
 - **Production WebSocket Stream**: `wss://kone-elevator-ai-production.up.railway.app/ws/fleet`
