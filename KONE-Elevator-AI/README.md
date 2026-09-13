@@ -1,7 +1,7 @@
 # Elevator AI — Predictive Maintenance & Root Cause Intelligence Platform
 
 [![Build Status](https://img.shields.io/badge/build-passing-brightgreen.svg)](https://github.com/mohan-07mk/kone-elevator-ai)
-[![Frontend](https://img.shields.io/badge/frontend-React%2018%20%7C%20Vite-blue.svg)](https://eloquent-eclair-c69e60.netlify.app)
+[![Frontend](https://img.shields.io/badge/frontend-React%2018%20%7C%20Vite-blue.svg)](https://elevator-ai.netlify.app/)
 [![Backend](https://img.shields.io/badge/backend-FastAPI%20%7C%20Python%203.12-green.svg)](https://kone-elevator-ai-production.up.railway.app)
 [![License](https://img.shields.io/badge/license-MIT-orange.svg)](LICENSE)
 
